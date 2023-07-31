@@ -1,4 +1,4 @@
-<h1 align="center">🎶Music Discord Bot🎶</h1>
+<h1 align="center">Music Discord Bot</h1>
 <h2 align="center">Advanced Music Discord Bot Supports Youtube/Spotify/SoundCloud</h2>
 
 - Need Help? **Join My [Discord Server](https://discord.gg/nqgbAAkgzh)**
