@@ -9,6 +9,8 @@
 
 - **ytdl** (``pip install youtube_dl``)
 
+- **Discord.py** (``python -m pip install -U discord.py``)
+
 - **Discord.py(voice)** (``python -m pip install -U discord.py[voice]``) 
 
 <h3 align="left">Bot Commands:</h3>
